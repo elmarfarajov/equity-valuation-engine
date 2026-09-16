@@ -1,0 +1,4 @@
+numpy>=1.26
+matplotlib>=3.8
+yfinance>=0.2.40
+pytest>=8.0
